@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-DannyGriga getting started with GitHub.
+Getting started with GitHub.
